@@ -15,7 +15,7 @@ Segurança>
 Instalar de fontes desconehcidas = Habilite essa opção.
 
 /*Os nomes das opções podem varear de acordo com 
-o seu modelo, exmeplo: Configurações, Definições, Settings*/
+o seu modelo, exemplo: Configurações, Definições, Settings*/
 
 ==============================================================//
 
