@@ -1,2 +1,0 @@
-
-const CHAVE_USER = "";
