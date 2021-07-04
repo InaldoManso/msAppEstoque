@@ -1,0 +1,2 @@
+
+const CHAVE_USER = "";
