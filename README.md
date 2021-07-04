@@ -1,16 +1,20 @@
 # meu_estoque_msapp
+==============================================================//
+Projeto para consumo de uma API de produtos.
 
-A new Flutter project.
+Para executar em seu ambiente, baixe este repositório por completo e coloque-o em uma parta com o nome:
+meu_estoque_msapp
 
-## Getting Started
+==============================================================//
 
-This project is a starting point for a Flutter application.
+Junto ao e-mail existe um arquivo .apk do qual pode ser executado em um dispositivo fisico.
+Para executá-lo, você deve buscar em seu dispositivo, algo como:
 
-A few resources to get you started if this is your first Flutter project:
+(Os nomes das opções podem varear de acordo com o se modelo, exmeplo: Configurações, Definições, Settings)
+Configurações>
+Segurança>
+Instalar de fontes desconehcidas = Habilite essa opção.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+==============================================================//
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Obrigado!
